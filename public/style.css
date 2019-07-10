@@ -3,6 +3,7 @@
 }
 
 body, section{
+    width: 100vw;
     overflow-x: hidden;
     /* font-family: 'Quicksand' !important; */
     -webkit-font-smoothing: antialiased;
